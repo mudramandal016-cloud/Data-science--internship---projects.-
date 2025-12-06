@@ -38,7 +38,7 @@ My transition journey from Physics → Data Science → AI-focused future
 
 🛠️ Tech Stack & Tools
 
-Languages: Python
+Languages: Python,SQL(Learning)
 
 Libraries: NumPy, Pandas, Matplotlib, SciPy
 
