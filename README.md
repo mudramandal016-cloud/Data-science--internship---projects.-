@@ -59,9 +59,6 @@ Expand portfolio with end-to-end real-world datasets
 📬 Contact
 
 GitHub: mudramandal016-cloud
-
-LinkedIn: (Add link)
-
-Email: (Add email)
+Email: mudramandal016@gmail.com
 
 ⭐ "Curiosity fuels science; data thinking shapes the future."
